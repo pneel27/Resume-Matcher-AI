@@ -1,4 +1,4 @@
-# ApplicationTrackingSystem <br/>
+# Resume Matcher AI  <br/>
 Used Gimini-Pro model which is analyze the uploaded resume and job description and provide suggestion for improving resume and also calculate the percentage of resume matching with job description.<br/> 
 
 Implementation Steps:<br/>
